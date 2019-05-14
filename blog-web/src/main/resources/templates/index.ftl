@@ -3,7 +3,8 @@
 <@header title="${config.siteName?if_exists} | 一个程序员的个人博客"
     keywords="${config.homeKeywords?if_exists}"
     description="${config.homeDesc?if_exists}"
-    canonical="/${url?if_exists}">
+    canonical="/${url?if_exists}"
+    baidu_union_verify="7307b2a7583f8ff4abe17bcb0e0d397d">
 </@header>
 
 <div class="container custome-container">
