@@ -9,6 +9,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
     <title>${title}</title>
     <meta name="author" content="${config.authorName}(${config.authorEmail})">
+    <meta name="baidu_union_verify" content="7307b2a7583f8ff4abe17bcb0e0d397d">
     <meta name="keywords" content="${keywords}"/>
     <meta name="description" content="${description}" id="meta_description">
     <link rel="canonical" href="${config.siteUrl}${canonical}" />
