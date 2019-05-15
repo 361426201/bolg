@@ -10,7 +10,6 @@
     <title>${title}</title>
     <meta name="author" content="${config.authorName}(${config.authorEmail})">
     <meta name="keywords" content="${keywords}"/>
-    <meta name="baidu_union_verify" content="e0f9f97c9ddf9e4b98c7f8c8a80c3827">
     <meta name="description" content="${description}" id="meta_description">
     <link rel="canonical" href="${config.siteUrl}${canonical}" />
     <#include "/layout/quote.ftl">
