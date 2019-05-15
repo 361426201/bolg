@@ -5,7 +5,7 @@
     description="${config.homeDesc?if_exists}"
     canonical="/${url?if_exists}"
     >
-    <meta name="baidu_union_verify" content="2a614f3da9feb0c0fac18485a095bfca">
+    <meta name="baidu_union_verify" content="7afe2623a9b77c4d93ceb406813da56f">
 
 </@header>
 
