@@ -3,6 +3,7 @@
         <div class="pull-left">
             <ul class="list-unstyled list-inline">
                 <li><span id="currentTime"></span></li>
+                <li><span >枫林晚</span></li>
             </ul>
             <div class="clear"></div>
         </div>
